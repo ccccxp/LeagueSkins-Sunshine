@@ -3,8 +3,9 @@
   "inheritedSpecialForms": 6,
   "ordinaryPackages": 9777,
   "patch": "16.21",
-  "previewImages": 44,
+  "previewImages": 47,
   "schema": 1,
   "source": "bettie9/LeagueSkins",
-  "sourceCommit": "ab5015697ead218af4f91a7a53e4ae125169146f"
+  "sourceCommit": "ab5015697ead218af4f91a7a53e4ae125169146f",
+  "validatedSpecialFormSets": 12
 }
