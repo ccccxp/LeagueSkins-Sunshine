@@ -1,8 +1,9 @@
 {
   "classicPackages": 1734,
+  "inheritedSpecialForms": 6,
   "ordinaryPackages": 9777,
   "patch": "16.21",
-  "previewImages": 38,
+  "previewImages": 44,
   "schema": 1,
   "source": "bettie9/LeagueSkins",
   "sourceCommit": "ab5015697ead218af4f91a7a53e4ae125169146f"
