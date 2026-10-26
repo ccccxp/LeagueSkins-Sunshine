@@ -1,11 +1,19 @@
 {
   "classicPackages": 1734,
-  "inheritedSpecialForms": 6,
   "ordinaryPackages": 9777,
   "patch": "16.21",
   "previewImages": 47,
+  "runtimeFormFallbacks": {
+    "234994": 234043,
+    "234995": 234043,
+    "234996": 234043,
+    "234997": 234043,
+    "234998": 234043,
+    "234999": 234043
+  },
   "schema": 1,
   "source": "bettie9/LeagueSkins",
   "sourceCommit": "ab5015697ead218af4f91a7a53e4ae125169146f",
+  "uiSidecars": 11,
   "validatedSpecialFormSets": 12
 }
