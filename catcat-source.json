@@ -1,5 +1,7 @@
 {
   "classicPackages": 1734,
+  "fallbackPackages": 33,
+  "fallbackSourceWins": 7,
   "ordinaryPackages": 9777,
   "patch": "16.21",
   "previewImages": 47,
