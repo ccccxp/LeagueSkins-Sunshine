@@ -3,6 +3,8 @@
   "fallbackPackages": 34,
   "fallbackReplacedOutdated": 34,
   "fallbackSourceWins": 34,
+  "maintenancePinnedPackages": 34,
+  "maintenancePolicy": "self-maintained-lightweight-no-upstream-sync",
   "maintenanceRules": 68,
   "maintenanceSource": "ccccxp/LeagueSkins",
   "maintenanceSourceCommit": "bf8d10fda821048efeb216805893deb90731a87a",
@@ -21,5 +23,6 @@
   "source": "bettie9/LeagueSkins",
   "sourceCommit": "1cb7afc87d8b65eeaf9dd9a74fbccf180ce00c50",
   "uiSidecars": 11,
+  "upstreamSync": "disabled",
   "validatedSpecialFormSets": 12
 }
